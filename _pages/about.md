@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chen Shen, and I am a Postdoc in Materials Science and Engineering at the University of Wisconsin-Madison. My research is interested in resolving outstanding fundamental scientific problems that impede the computational materials design process. My research involves using high-throughput density functional theory, applied thermodynamics, and materials informatics to deepen our fundamental understanding of nucleation and growth while exploring new chemical spaces for functional technological materials.
+My name is Chen Shen, and I am a Postdoc in Materials Science and Engineering at the University of Wisconsin-Madison. My research is interested in resolving outstanding fundamental scientific problems that impede the computational materials design process.
+An integrated paradigm combining the high throughput (HTP), machine learning (ML), Molecular dynamics (MD), and CALculation of PHAse Diagram (CALPHAD) methods was developed to design the functional materials, especially energy materials, including molten salts (\textit{e.g.} LiCl-NaCl-KCl), optoelectronic materials (\textit{e.g.} Chalcogenides), permanent magnets (\textit{e.g.} MAX and MAB phases), magnetocaloric materials (\textit{e.g.} MAB phases), superconductors (\textit{e.g.} NbSe$_2$ and MAX phases), thermoelectric materials (\textit{e.g.} Half-Heusler and 2D materials), thermal management materials (\textit{e.g.} h-BN and Mo$_2$SiN$_4$), and low‑dimensional catalytic material (\textit{e.g.} Mbene phases). 
+The work focuses on studying the role of the lattice in various interactions, calculating and predicting the properties resulting from the corresponding couplings (shown in the figure above).
+In addition, in cooperation with experimental groups, research has also been carried out in phase diagram optimization, high-temperature and high-pressure ceramics, ferroelectrics, negative thermal expansion materials, and optical electronics.
+
+
+My research involves using high-throughput density functional theory, applied thermodynamics, and materials informatics to deepen our fundamental understanding of nucleation and growth while exploring new chemical spaces for functional technological materials.
 
 
 A data-driven personal website
